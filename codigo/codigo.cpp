@@ -1,4 +1,4 @@
-// codigo disponível em https://neps.academy/lesson/139
+// problema disponível em https://neps.academy/lesson/139
 #include <iostream>
 using namespace std;
 int main(){
