@@ -1,4 +1,4 @@
-//problema disponivel https://neps.academy/lesson/139
+//problema disponivel em https://neps.academy/lesson/139
 #include <stdio.h>
 
 int main(){
