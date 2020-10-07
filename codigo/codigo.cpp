@@ -1,4 +1,5 @@
-// problema disponível em https://neps.academy/lesson/139
+// Código (OBI 2015)
+// problema disponivel em https://neps.academy/lesson/139
 #include <iostream>
 using namespace std;
 int main(){
