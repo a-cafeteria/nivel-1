@@ -3,13 +3,13 @@
 int main(){
     float altura, IMC, peso;
 
-    printf("Digite o peso (Kg): ");
-    scanf("%f", &peso);
+    printf("Digite o peso (Kg): "); 
+    scanf("%f", &peso); //lê o valor do peso
 
     printf("Digite o altura (M): ");
-    scanf("%f", &altura);
+    scanf("%f", &altura); //lê o valor da altura
 
-    IMC = peso / (altura * altura);
+    IMC = peso / (altura * altura); //faz o cálculo do IMC
 
     printf("IMC: %.1f\n", IMC);
 
@@ -30,7 +30,7 @@ int main(){
     }
     else if (IMC >= 40){
         printf("Obesidade Grau 3");
-    }
+    }  //condição para avaliar cada nivel de EMC e sua respectiva classificação
 
     return 0;
 
