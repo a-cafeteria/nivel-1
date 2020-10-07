@@ -1,4 +1,5 @@
-//problema disponivel em https://neps.academy/lesson/139
+// Código (OBI 2015)
+// problema disponivel em https://neps.academy/lesson/139
 #include <stdio.h>
 
 int main(){
