@@ -1,7 +1,7 @@
 // OBI 2016 - Montanha (Nível 1)
 // Enunciado: https://olimpiada.ic.unicamp.br/prova/testef1/resultado/montanha/
 
-#include <bits/stdc++.h>
+#include <stdio.h>
 using namespace std;
 int M[1010];
 int main(int argc, char const *argv[]) {
