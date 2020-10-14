@@ -2,7 +2,6 @@
 // Enunciado: https://olimpiada.ic.unicamp.br/prova/testef1/resultado/montanha/
 
 #include <stdio.h>
-using namespace std;
 int M[1010];
 int main(int argc, char const *argv[]) {
 int N;
